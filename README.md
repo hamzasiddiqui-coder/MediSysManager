@@ -39,14 +39,18 @@ javac MediSysManager.java
 ### 3. Run the Program
 java MediSysManager
 
-📷 Screenshots
-🖥️ Welcome Screen
-```markdown
-![Welcome Screen](./screenshots/Welcome.png)
-👨‍⚕️ Physician Section
-![Physician Section](./screenshots/Physicians.png)
-💊 Pharmacy Section
-![Pharmacy Section](./screenshots/Pharmacy.png)
+## 📷 Screenshots
+
+### 🖥️ Welcome Screen
+<img width="800" alt="Welcome Screen" src="screenshots/Welcome.png" />
+
+### 👨‍⚕️ Physician Section
+<img width="800" alt="Physician Section" src="screenshots/Physicians.png" />
+
+### 💊 Pharmacy Section
+<img width="800" alt="Pharmacy Section" src="screenshots/Pharmacy.png" />
+
+
 
 📌 Future Enhancements
 Add database support (MySQL/PostgreSQL)
